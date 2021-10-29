@@ -22,17 +22,17 @@
 
 </br></br>
 
-## 笔记分类如下：
+## 笔记目录
 
-### 1 DQL语言（数据库查询语言）
+[<font size=5>1 DQL语言（数据库查询语言）</font>](./notes/1.DQL语言.md)
 
-### 2 DML语言（数据库操作语言）
+[<font size=5>2 DML语言（数据库操作语言）</font>](./notes/2.DML语言.md)
 
-### 3 DDL语言（数据库定义语言）
+[<font size=5>3 DDL语言（数据库定义语言）</font>](./notes/3.DDL语言.md)
 
-### 4 TCL语言（事务控制语言）
+[<font size=5>4 TCL语言（事务控制语言）</font>](./notes/4.TCL语言.md)
 
-### 5.1 视图、变量
+[<font size=5>5.1 视图、变量</font>](./notes/5.1视图、变量.md)
 
-### 5.2 存储过程和函数、流程控制结构
+[<font size=5>5.2 存储过程和函数、流程控制结构</font>](./notes/5.2存储过程和函数、流程控制结构.md)
 
